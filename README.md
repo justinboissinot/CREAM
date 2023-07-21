@@ -3,7 +3,7 @@
 
 Workflow suggested for the CREAM approach.
 
-Developped by Eric Normandeau and Justin Boissinot
+Developped by Eric Normandeau and Justin Boissinot.
 
 ### Reference
 This methylotyping workflow has been published within this paper:
